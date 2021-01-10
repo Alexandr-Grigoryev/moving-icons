@@ -47,7 +47,7 @@
   transition-property: transform;
   transition: 500ms;
   /* background-color: orangered; */
-  background-image: url(/images/img-6.jpg);
+  background-image: url(./images/img-6.jpg);
   background-size: contain;
   background-repeat: no-repeat;
 }
