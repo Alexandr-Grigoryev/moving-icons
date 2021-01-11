@@ -12,7 +12,11 @@
   height: 50px;
   width: 200px;
   background-size: contain;
-  background-color: #ccc;
+  /* background-color: #ccc; */
+  background-color: pink;
+}
+.moving-icon:hover {
+  background-color: orchid;
 }
 .moving-icon::before {
   display: flex;
