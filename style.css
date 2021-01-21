@@ -14,6 +14,7 @@
   width: 200px;
   background-size: contain;
   background-color: pink;
+  border: 0;
 }
 .moving-icon:hover {
   background-color: orchid;
@@ -54,6 +55,9 @@
 .moving-icon:hover::after {
   transform: translateY(-50%);
 }
+
+/* pop-up */
+
 .menu-section {
   width: 1600px;
 }
