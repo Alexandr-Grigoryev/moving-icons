@@ -40,7 +40,7 @@
 .moving-icon::after {
   position: absolute;
   top: 50%;
-  left: 57px;
+  left: 63px;
   content: "";
   height: 20px;
   width: 20px;
